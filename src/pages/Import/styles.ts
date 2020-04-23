@@ -23,6 +23,26 @@ export const ImportFileContainer = styled.section`
   padding: 64px;
 `;
 
+export const ErrorContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  margin-bottom: 5px;
+
+  img {
+    height: 20px;
+    width: 20px;
+  }
+`;
+
+export const Error = styled.span`
+  color: #c53030;
+  font-size: 12px;
+
+  margin-left: 3px;
+`;
+
 export const Footer = styled.section`
   margin-top: 36px;
   display: flex;
