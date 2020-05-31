@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  GoFinances is a simple financial control project developed in ReactJS during Rocketseat's GoStack 11.
+  GoFinances is a simple financial control project developed at ReactJS during Rocketseat's GoStack 11 Bootcamp.
 </p>
 
 ---
